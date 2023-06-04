@@ -13,6 +13,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foobar2000_SDK", "lib\fooba
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo_playback_to_file", "src\foo_playback_to_file.vcxproj", "{D081F529-DF26-4328-A8F3-2F0C1B6443C5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{556338CC-4919-466E-A321-59D0CC176B69}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		lib\readme.txt = lib\readme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
