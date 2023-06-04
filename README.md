@@ -1,10 +1,12 @@
 ## FOO_PLAYBACK_TO_FILE
-This project is an opensource-copy of foo_simple_np plugin which is not supported by latest foobar2000 player
+This project is an opensource-copy of foo_np_simple plugin which is not supported by latest foobar2000 player
 
 ### Compiled versions dowload
 
 
 [foo_playback_to_file_x32](https://sourceforge.net/projects/foo-playback-to-file/files/x32/foo_playback_to_file.dll/download)
+
+
 [foo_playback_to_file_x64](https://sourceforge.net/projects/foo-playback-to-file/files/x64/foo_playback_to_file.dll/download)
 
 ### Usage
